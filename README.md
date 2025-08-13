@@ -15,7 +15,7 @@ Convert a Serper API function into a tool to search content from websites with g
 Convert a push function into a tool to send a notification to a pushover app on my phone.
   
 - Step 2: Integrate the tools created from step 1 with LangGraphs and LLMs to create a chatbox shown in the screenshot below.   
-The same question from the lab 1 is asked but the chatbox could answer it this time more accurately. The chatbox could send a notification to a pushover app as requested. But it could not keep memory from previous conversations/interactions. Even though I told the chatbox my name previously, it still could not recall my name.      
+The same question from the lab 1 is asked but the chatbox could answer it more accurately this time. The chatbox could send a notification to a pushover app as requested. But it could not keep memory from previous conversations/interactions. Even though I told the chatbox my name previously, it still could not recall my name.      
 <img width="1616" height="884" alt="image" src="https://github.com/user-attachments/assets/e451446d-13c9-40c3-b1f7-656e687c04aa" />       
 <img width="1244" height="611" alt="image" src="https://github.com/user-attachments/assets/b96bba05-0ac5-4c5c-a7b8-5a03a718b3ab" />  
  
