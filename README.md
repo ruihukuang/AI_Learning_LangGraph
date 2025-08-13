@@ -3,7 +3,9 @@
 ## lab 1    
 Context   
 Integrate LangGraph with LLMs and use a gradio UI to create a chatbox shown in the screenshot below.  
+
 A question is asked but an accurate answer is not provided.  
+
 <img width="974" height="569" alt="image" src="https://github.com/user-attachments/assets/afafa65e-bf11-48e9-b0fb-0399d739d8a2" />  
 
 ## lab 2  
@@ -23,7 +25,7 @@ Screenshots below show a chatbox could remember my name after I told it and also
 <img width="1705" height="1019" alt="image" src="https://github.com/user-attachments/assets/d4d2380c-bfc5-4592-9820-8da5374ce6ac" />
 
 - Step 4 : Save memory into files rather than just adding a memory server object. In this case, a chatbox could use info from memory files to start conversations but could be updated based on requests during conversations.  
-Screenshots below show a chatbox starts calling me another name from memory files but could call me right name after I correct it.   
+A screenshot below show a chatbox starts calling me another name from memory files but could call me a right name after I correct it.   
 <img width="1588" height="844" alt="image" src="https://github.com/user-attachments/assets/47d0477a-7167-44f4-a4ce-18de89a0f2df" />  
 
 
