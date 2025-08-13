@@ -2,6 +2,7 @@
 
 ## lab 1    
 Context   
+
 Integrate LangGraph with LLMs and use a gradio UI to create a chatbox shown in the screenshot below.  
 
 A question is asked but an accurate answer is not provided.  
@@ -9,7 +10,8 @@ A question is asked but an accurate answer is not provided.
 <img width="974" height="569" alt="image" src="https://github.com/user-attachments/assets/afafa65e-bf11-48e9-b0fb-0399d739d8a2" />  
 
 ## lab 2  
-Context    
+Context  
+
 - Step 1: Use a LangChain wrapper class for converting functions into Tools.   
 Convert a Serper API function into a tool to search content from websites with google search API.   
 Convert a push function into a tool to send a notification to a pushover app on my phone.
