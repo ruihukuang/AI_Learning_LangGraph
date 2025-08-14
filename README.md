@@ -33,7 +33,28 @@ A screenshot below show a chatbox starts calling me another name from memory fil
 All the conversations/interactions generated from LangGraphs are monitored in the Langsmith shown in the screenshot below.  
 <img width="2964" height="1488" alt="image" src="https://github.com/user-attachments/assets/d5640cf5-b0eb-423f-a6b9-92e1ec60d141" />  
 
+## lab 3  
 
+Context   
+
+<img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/deaaad8f-1f97-4012-ac2d-995089864c78" />  
+
+<img width="1278" height="371" alt="image" src="https://github.com/user-attachments/assets/fc6f25dd-9486-4994-a961-59049acb312f" />  
+
+
+<img width="1003" height="524" alt="image" src="https://github.com/user-attachments/assets/6ff930a3-6c3b-4872-a2fb-1f6ab057a1f8" />   
+
+
+
+## lab 4   
+
+
+<img width="287" height="377" alt="image" src="https://github.com/user-attachments/assets/debab61d-44bc-4835-bf43-b030f98125a6" />  
+
+<img width="1270" height="429" alt="image" src="https://github.com/user-attachments/assets/f1593ded-3135-49f2-92c9-988769911d71" />  
+
+
+<img width="1033" height="545" alt="image" src="https://github.com/user-attachments/assets/3b4d381f-e6f1-4563-b59f-3a20b9b8d443" />  
 
 
 
