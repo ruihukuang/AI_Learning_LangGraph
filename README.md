@@ -50,15 +50,15 @@ Trigger to send a push notification to a Pushover app to my phone in the chatbox
 ## lab 4   
 
 Context  
-Create a LangGraph to start a workflow. This workflow adds evaluators on the top of the workflow from lab 3. It requires a chatbox to enter a question and criteria. This criteria is used by evaluators to provide the feedback on the answer. 
+Create a LangGraph to start a workflow. This workflow adds evaluators on the top of the workflow from lab 3. It requires a chatbox to enter a question and criteria. This criteria is used by evaluators to provide the feedback on the answer.  
 
-Use LangGraph to create a workflow: 
+Use LangGraph to create a workflow:  
 <img width="287" height="377" alt="image" src="https://github.com/user-attachments/assets/debab61d-44bc-4835-bf43-b030f98125a6" /> 
 
-Trigger to open web browsers using Playwright and Node.js:  
-<img width="1270" height="429" alt="image" src="https://github.com/user-attachments/assets/f1593ded-3135-49f2-92c9-988769911d71" />  
+Trigger to open web browsers using Playwright and Node.js:   
+<img width="1270" height="429" alt="image" src="https://github.com/user-attachments/assets/f1593ded-3135-49f2-92c9-988769911d71" />    
 
-Provide an answer and evaluator feedback on the answer in the chatbox:  
+Provide an answer and evaluator feedback on the answer in the chatbox:   
 <img width="1033" height="545" alt="image" src="https://github.com/user-attachments/assets/3b4d381f-e6f1-4563-b59f-3a20b9b8d443" />  
 
 
