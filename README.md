@@ -36,7 +36,7 @@ All the conversations/interactions generated from LangGraphs are monitored in th
 ## lab 3  
 
 Context  
-Use LangGraph to create a workflow. This workflow enables a chatbox to trigger tools if needed. There are 2 tools. One tool is to extract text from web browsers using Playwright and Node.js. The other one is to send a push notification to a Pushover app to my phone.  
+Use LangGraph to create a workflow. This workflow enables a chatbox to trigger tools if needed. There are 2 tools. One tool is to extract text from web browsers using Playwright and Node.js from LangChain. The other one is to send a push notification to a Pushover app to my phone.  
 
 Use LangGraph to create a workflow:      
 <img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/deaaad8f-1f97-4012-ac2d-995089864c78" />  
