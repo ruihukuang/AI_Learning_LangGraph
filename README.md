@@ -64,14 +64,17 @@ Provide an answer and evaluator feedback on the answer in the chatbox:
 ## app folder   
 
 Context  
-This app is created to include a workflow from lab 4 and also to add other tools. These tools include using a file system to save responses from the workflow, using Wikipedia to immprove search and using Python REPL for debugging.  
+An app is created to include a workflow from lab 4 and also to add other tools. These tools include using a file system to save responses from the workflow, using Wikipedia to immprove search and using Python REPL for debugging.  
 
-The screenshots below shows the app launched locally with a request from a user and responses for using tools. The tools are used to save responses and to send a notification to a Pushover app on my phone.  
+The screenshots below shows an app launched locally with a request from a user and responses for using tools. The tools are used to save responses and to send a notification to a Pushover app on my phone.  
 
 <img width="1305" height="679" alt="image" src="https://github.com/user-attachments/assets/eb491ed0-b356-4e97-8cbb-0609ad0a295c" /> 
 
 <img width="1301" height="675" alt="image" src="https://github.com/user-attachments/assets/54b18bbf-2c77-45a4-bd17-6e3991747fdb" />  
 
+
+The app also uses tools to search webs using web browsers, extract content from webs, and search Wikipedia etc. The usage could be found in LangSmith. The screenshot below shows some usages for these tools.   
+<img width="1297" height="700" alt="image" src="https://github.com/user-attachments/assets/f84ac2bf-cc85-48be-891b-11357f0ebdab" />  
 
 
 
