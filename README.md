@@ -64,7 +64,7 @@ Provide an answer and evaluator feedback on the answer in the chatbox:
 ## app folder   
 
 Context  
-An app is created to include a workflow from lab 4 and also to add other tools. These tools include using a file system to save responses from the workflow, using Wikipedia to immprove search and using Python REPL for debugging.  
+An app is created to include a workflow from lab 4 and also to add other tools using Langchain. These tools include using a file system to save responses from the workflow, using Wikipedia to immprove search and using Python REPL for debugging.  
 
 The screenshots below shows an app launched locally with a request from a user and responses for using tools. The tools are used to save responses and to send a notification to a Pushover app on my phone.  
 
