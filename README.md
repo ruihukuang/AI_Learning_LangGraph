@@ -61,6 +61,17 @@ Trigger to open web browsers using Playwright and Node.js:
 Provide an answer and evaluator feedback on the answer in the chatbox:   
 <img width="1033" height="545" alt="image" src="https://github.com/user-attachments/assets/3b4d381f-e6f1-4563-b59f-3a20b9b8d443" />  
 
+## app folder  
+
+Context 
+This app is created to include a workflow from lab 4 and also to add other tools. These tools include using a file system to save responses from the workflow, using Wikipedia to immprove search and using Python REPL for debugging.  
+The screenshots below shows the app launched locally with a request from a user and responses for using tools. The tools are used to save responses and to send a notification to a Pushover app on my phone.  
+<img width="1305" height="679" alt="image" src="https://github.com/user-attachments/assets/eb491ed0-b356-4e97-8cbb-0609ad0a295c" />    
+<img width="1301" height="675" alt="image" src="https://github.com/user-attachments/assets/54b18bbf-2c77-45a4-bd17-6e3991747fdb" />  
+
+
+
+
 
 
 
