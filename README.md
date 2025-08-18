@@ -41,7 +41,7 @@ Use LangGraph to create a workflow. This workflow enables a chatbox to trigger t
 Use LangGraph to create a workflow:      
 <img width="236" height="264" alt="image" src="https://github.com/user-attachments/assets/deaaad8f-1f97-4012-ac2d-995089864c78" />  
 
-Trigger to open web browsers using Playwright and Node.js:  
+Trigger to open web browsers and extract content using Playwright :  
 <img width="1278" height="371" alt="image" src="https://github.com/user-attachments/assets/fc6f25dd-9486-4994-a961-59049acb312f" />  
 
 Trigger to send a push notification to a Pushover app to my phone in the chatbox:  
@@ -55,7 +55,7 @@ Create a LangGraph to start a workflow. This workflow adds evaluators on the top
 Use LangGraph to create a workflow:  
 <img width="287" height="377" alt="image" src="https://github.com/user-attachments/assets/debab61d-44bc-4835-bf43-b030f98125a6" /> 
 
-Trigger to open web browsers using Playwright and Node.js:   
+Trigger to open web browsers and extract content using Playwright:   
 <img width="1270" height="429" alt="image" src="https://github.com/user-attachments/assets/f1593ded-3135-49f2-92c9-988769911d71" />    
 
 Provide an answer and evaluator feedback on the answer in the chatbox:   
@@ -73,7 +73,7 @@ The screenshots below shows an app launched locally with a request from a user a
 <img width="1301" height="675" alt="image" src="https://github.com/user-attachments/assets/54b18bbf-2c77-45a4-bd17-6e3991747fdb" />  
 
 
-The app also uses tools to search webs using web browsers, extract content from webs, and search Wikipedia etc. The usage could be found in LangSmith. The screenshot below shows some usages for these tools.   
+The app also uses tools to search webs, extract content from webs, and search Wikipedia etc. The usage could be found in LangSmith. The screenshot below shows some usages for these tools.   
 <img width="1297" height="700" alt="image" src="https://github.com/user-attachments/assets/f84ac2bf-cc85-48be-891b-11357f0ebdab" />  
 
 
